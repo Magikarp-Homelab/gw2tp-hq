@@ -1,1 +1,1 @@
-2023-05-11 16:37:22,698 - item-loader - ERROR - Error requesting data. Status Code: 404. Message: Not Found. URL: https://api.guildwars2.com/v2/item
+2023-05-12 16:02:21,499 - item-loader - ERROR - Error requesting data. Status Code: 404. Message: Not Found. URL: https://api.guildwars2.com/v2/item/30704?lang=en
