@@ -28,10 +28,13 @@ map recipes out -> persist <- this shit hard
     * notable flags:
       * AccountBound (on acquire)
       * SoulBound (on acquire)
-      * 
+
 
 
 ## notable endpoints
 * items, https://wiki.guildwars2.com/wiki/API:2/items
 * recipes search, https://wiki.guildwars2.com/wiki/API:2/recipes/search
 * recipes, https://wiki.guildwars2.com/wiki/API:2/recipes
+
+* tp prices, https://wiki.guildwars2.com/wiki/API:2/commerce/prices
+* tp listings, https://wiki.guildwars2.com/wiki/API:2/commerce/listings
